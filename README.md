@@ -6,7 +6,7 @@
    - Given an array of integers and a target, return the starting and ending indices of a subarray that sums to the target.
 
 2. **Longest Substring with At Most K Distinct Characters**
-   - Use the sliding window technique and a hash map to find the length of the longest substring with at most `K` distinct characters.
+   - Use the Brute Force Approach  to find the length of the longest substring with at most `K` distinct characters.
 
 ---
 
